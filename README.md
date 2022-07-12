@@ -1,8 +1,17 @@
 # PCOIN Block Explorer
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/pcoinproject/PCOIN-Block-Explorer?color=0A80AB&label=Version)
-![GitHub last commit](https://img.shields.io/github/last-commit/pcoinproject/PCOIN-Block-Explorer)
-![GitHub](https://img.shields.io/github/license/pcoinproject/PCOIN-Block-Explorer?color=0A80AB)
+<div align="center">
+
+[![GitHub license](https://img.shields.io/github/license/pcoinproject/PCOIN-Block-Explorer)](https://github.com/pcoinproject/PCOIN-Block-Explorer/blob/master/LICENSE)
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/pcoinproject/PCOIN-Block-Explorer/)
+[![GitHub release](https://img.shields.io/github/release/pcoinproject/PCOIN-Block-Explorer)](https://GitHub.com/pcoinproject/PCOIN-Block-Explorer/releases/)
+[![GitHub Release Date](https://img.shields.io/github/release-date/pcoinproject/PCOIN-Block-Explorer?color=%2313b9f6&cacheSeconds=3600)](https://github.com/pcoinproject/PCOIN-Block-Explorer/releases)
+[![GitHub branches](https://badgen.net/github/branches/pcoinproject/PCOIN-Block-Explorer)](https://github.com/pcoinproject/PCOIN-Block-Explorer/)
+[![GitHub commits](https://badgen.net/github/commits/pcoinproject/PCOIN-Block-Explorer)](https://GitHub.com/pcoinproject/PCOIN-Block-Explorer/commit/)
+[![GitHub latest commit](https://badgen.net/github/last-commit/pcoinproject/PCOIN-Block-Explorer)](https://GitHub.com/pcoinproject/PCOIN-Block-Explorer/commit/)
+[![GitHub issues](https://img.shields.io/github/issues/pcoinproject/PCOIN-Block-Explorer)](https://GitHub.com/pcoinproject/PCOIN-Block-Explorer/issues/)
+
+</div>
 
 Customized version of [eIquidus](https://github.com/team-exor/eiquidus)
 
