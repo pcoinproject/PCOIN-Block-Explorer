@@ -36,3 +36,4 @@ node_modules
 
 package-lock.json
 test.sh
+yarn.lock
